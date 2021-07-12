@@ -1,0 +1,16 @@
+.no-results-div {
+    text-align: center;
+    padding: 10px;
+}
+
+.no-results-message {
+    font-size: 20px;
+    align-items: center;
+    padding: 5px;
+    color: var(--input-placeholder-primary);
+}
+
+.icon-no_result-div {
+    font-size: 55px !important;
+    color: var(--input-placeholder-primary) !important;
+}

@@ -1,0 +1,42 @@
+.data-container {
+    text-transform: capitalize;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 13px;
+}
+
+.data-heading {
+    font-weight: 600;
+    font-size: 25px;
+    text-decoration: underline;
+    color: dodgerblue;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.body {
+    display: block;
+}
+
+.posts-title, .posts-userId, .posts-id, .posts-desc {
+    display: flex;
+    width: 100%;
+}
+
+.posts-header {
+    width: 5%;
+    font-weight: 500;
+    text-align: left;
+}
+
+.posts-content{
+    width: 95%;
+    text-align: left;
+
+}
+
+.comment-btn-container {
+    text-align: start;
+    padding-left: 30px;
+}

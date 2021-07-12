@@ -1,0 +1,12 @@
+.comment-list-container {
+    padding: 20px;
+}
+
+.comments-heading {
+    font-weight: 600;
+    font-size: 25px;
+    text-decoration: underline;
+    color: dodgerblue;
+    text-align: start;
+    padding-left: 10px;
+}

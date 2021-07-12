@@ -1,0 +1,35 @@
+.comment-card-container {
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    font-size: 13px;
+}
+
+.comment-card {
+    height: 130px;
+    width: 50%;
+    margin: 10px;
+    background-color: #dde9ed;
+}
+.comment-list {
+    display: block;
+}
+
+.comment-name, .comment-email, .comment-body {
+    padding-left: 5px;
+    display: flex;
+    width: 90%;
+}
+
+.comment-header {
+    width: 20%;
+    font-weight: 500;
+    text-align: left;
+
+}
+
+.comment-content{
+    width: 70%;
+    text-align: left;
+}

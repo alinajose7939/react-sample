@@ -1,0 +1,11 @@
+.main-container {
+    padding: 20px;
+
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 25px;
+    text-decoration: underline;
+    color: dodgerblue;
+}

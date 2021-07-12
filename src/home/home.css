@@ -1,0 +1,20 @@
+
+.home-card-container {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 13px;
+}
+
+.home-card {
+    height: 60px;
+    margin: 10px;
+    background-color: #dde9ed;
+
+}
+
+.title {
+    padding-top: 18px;
+    padding-left: 5px;
+}
